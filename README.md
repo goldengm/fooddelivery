@@ -9,8 +9,8 @@
 
 ### To SEE admin features
 
-email: moderator@localhost.com
-password : moderator
+email: schmid@magehire.com
+password : 123456
 
 ## Environment variables
 
