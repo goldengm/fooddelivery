@@ -96,6 +96,6 @@ password : 123456
 - Products and orders section with sorter, filter and search bar.
 - URL able to storage the user search
 - pagination.
-- User orders tracker page.
 - Real time order notifications.
+- User orders tracker page.
 - Dashboard with users, categories, orders and products management system.
